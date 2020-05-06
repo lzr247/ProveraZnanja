@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE Magacin SYSTEM "magacin.dtd">
+<!DOCTYPE magacin SYSTEM "magacin.dtd">
 
 <Magacin xmlns="http://www.w3schools.com/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -8,7 +8,7 @@
 <magacin>
     <artikal>
 
-        <naziv sifra='123'>Kokice</naziv>
+        <naziv sifra='x001'>Kokice</naziv>
 
         <datumIzrade>
             <dan>21</dan>
@@ -31,7 +31,7 @@
 
     <artikal>
 
-        <naziv sifra='124'>Smoki</naziv>
+        <naziv sifra='x002'>Smoki</naziv>
 
         <datumIzrade>
             <dan>21</dan>
