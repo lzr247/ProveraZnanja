@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
+
+<Magacin xmlns="http://www.w3schools.com/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com/ magacin.xsd">
+
+<magacin>
+    <artikal>
+
+        <naziv sifra='123'>Kokice</naziv>
+
+        <datumIzrade>
+            <dan>21</dan>
+            <mesec>12</mesec>
+            <godina>2012</godina>
+        </datumIzrade>
+
+        <cena tip='dinar'>50</cena>
+
+        <kompanijaProdavca>
+            <imeKompanije>Kokicar</imeKompanije>
+            <adresa>Ulica Kokica 123</adresa>
+            <adresa>Ulica Kokica 124</adresa>
+        </kompanijaProdavca>
+
+        <emailProdavca tip='privatni'>kokice@yahoo.com</emailProdavca>
+        <emailProdavca tip='sluzbeni'>kokice2@yahoo.com</emailProdavca>
+
+    </artikal>
+
+    <artikal>
+
+        <naziv sifra='124'>Smoki</naziv>
+
+        <datumIzrade>
+            <dan>21</dan>
+            <mesec>12</mesec>
+            <godina>2012</godina>
+        </datumIzrade>
+
+        <cena tip='evro'>5</cena>
+
+        <kompanijaProdavca>
+            <imeKompanije>Smokiii</imeKompanije>
+            <adresa>Ulica Smokija 123</adresa>
+            <adresa>Ulica Smokija 124</adresa>
+        </kompanijaProdavca>
+
+        <emailProdavca tip='privatni'>smoki@yahoo.com</emailProdavca>
+        <emailProdavca tip='sluzbeni'>smoki12@yahoo.com</emailProdavca>
+
+    </artikal>
+
+</magacin>
