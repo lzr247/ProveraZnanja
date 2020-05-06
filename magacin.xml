@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE magacin SYSTEM "magacin.dtd">
 
-<Magacin xmlns="http://www.w3schools.com/"
+<magacin xmlns="http://www.w3schools.com/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.w3schools.com/ magacin.xsd">
 
